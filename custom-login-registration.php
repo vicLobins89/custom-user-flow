@@ -2,8 +2,14 @@
 /**
  * Plugin Name: Custom User Flow
  * Description: This plugin adds custom pages for logging in and registering.
+ * Version: 1.0
+ * Author: Vitali Lobins
+ * Author URI: https://github.com/vicLobins89
  * License: GPL2
  * Text Domain: custom-user-flow
+ * 
+ * Based on the tutorial by Jarkko Laine
+ * https://code.tutsplus.com/tutorials/build-a-custom-wordpress-user-flow-part-1-replace-the-login-page--cms-23627
  */
 
 // Custom User Flow
